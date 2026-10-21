@@ -1,0 +1,1 @@
+# -adim-enerjisi-simulasyonu-1
